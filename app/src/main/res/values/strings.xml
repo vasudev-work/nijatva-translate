@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nijatva Translate</string>
+    <string name="tagline">Translate between 22 Indian languages and the world</string>
+
+    <string name="source_language">From</string>
+    <string name="target_language">To</string>
+    <string name="detect_language">Detect language</string>
+    <string name="swap_languages">Swap languages</string>
+
+    <string name="input_hint">Type or paste text…</string>
+    <string name="clear_input">Clear text</string>
+    <string name="translate">Translate</string>
+    <string name="translating">Translating…</string>
+    <string name="result">Translation</string>
+    <string name="result_placeholder">Your translation will appear here.</string>
+
+    <string name="copy">Copy</string>
+    <string name="copied">Copied to clipboard</string>
+    <string name="share">Share</string>
+    <string name="speak">Listen</string>
+
+    <string name="settings">Engine settings</string>
+    <string name="back">Back</string>
+    <string name="base_url">Engine base URL</string>
+    <string name="base_url_hint">https://libretranslate.com</string>
+    <string name="api_key">API key (optional)</string>
+    <string name="api_key_hint">Leave blank for public or local servers</string>
+    <string name="save">Save</string>
+    <string name="saved">Settings saved</string>
+    <string name="settings_help">Nijatva Translate talks to any LibreTranslate-compatible endpoint. Run it locally with Docker or point it at your own Bhashini or IndicTrans2 gateway.</string>
+
+    <string name="search_languages">Search languages</string>
+    <string name="no_languages">No language matches that search.</string>
+    <string name="error_generic">Translation failed. Check your engine URL in settings.</string>
+</resources>

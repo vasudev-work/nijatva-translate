@@ -1,0 +1,33 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+*.apk.*.map
+
+# Gradle
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.hprof
+.navigation/
+
+# Keystores and secrets
+*.jks
+*.keystore
+keystore.properties
+secrets.properties
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Kotlin
+.kotlin/
